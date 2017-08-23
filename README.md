@@ -58,3 +58,6 @@ What model did I use in the end? Why?
 Alternative models I considered? Why are they not good enough?
 What performance metric did I use? Why?
 Based on insights from the model, what actionable plans do I propose to reduce churn?
+
+
+Slides here: https://docs.google.com/presentation/d/1MH__IAnZiHu7nUs0ujCS4b6axdLhgSSsIhA4y3j7drQ/edit?usp=sharing
